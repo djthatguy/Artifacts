@@ -1,5 +1,5 @@
 <h1 align="center">MadLibs/Function Test Case</h1>
-<h3 align="center">An Information Science student at UMD. Here is my GitHub profile, where you can find information about me and the various projects I have worked on. These projects can be located in my repositories, and consist of both academic and personal projects. I will continue to add information here as I continue my learning journey. My profile uses a custom template in order to portray information here in a way that is easy on the eyes. You can also locate a short about me section on the left hand side of the page, which will also be updated over time.</h3>
+<h3 align="center">Information about two projects I have done</h3>
 
 
 <h1 align="center">Mad Libs</h1>
