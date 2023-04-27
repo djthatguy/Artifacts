@@ -14,7 +14,7 @@ Moreover, this artifact highlights our capabilities as programmers, specifically
 
 Overall, the mad libs game we created for our Intro to Python class in 2022 is a testament to our dedication, teamwork, and skill as programmers. It is an artifact that I am proud to include in my project portfolio, and I believe it will serve as evidence of my abilities to prospective employers or collaborators.</h3>
 
-<h1 align="center">Function Test Case/h1>
+<h1 align="center">Function Test Case</h1>
 
 <h3 align="center">Additionally in 2022, I created a function test case for my Intro to Python class, which I am proud to present as an artifact that demonstrates my programming skills. Although the task was relatively simple compared to my previous projects, it allowed me to showcase my proficiency in Python and my ability to create a function that analyzes data.
 
