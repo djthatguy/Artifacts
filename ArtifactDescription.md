@@ -16,7 +16,7 @@ Overall, the mad libs game we created for our Intro to Python class in 2022 is a
 
 <h1 align="center">Webscraper</h1>
 
-<h3 align="center">In 2022, I created a webscraper for my Intro to Python class that I am particularly proud of. The artifact I present here is a demonstration of my programming skills and my ability to work with Python effectively.
+<h3 align="center">Another project I worked on in 2022 was a webscraper for my Intro to Python class that I am particularly proud of. The artifact I present here is a demonstration of my programming skills and my ability to work with Python effectively.
 
 Initially, creating the webscraper was a challenging task that required several attempts. However, I persevered and was eventually able to write it in a way that was both convenient and efficient. The code allowed me to extract specific information from the University of Maryland iSchool Alumni website page, a task that would have been time-consuming and tedious without the webscraper.
 
